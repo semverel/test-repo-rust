@@ -1,0 +1,7 @@
+[package]
+name = "semverel-test-repo-rust"
+version = "0.1.0"
+authors = ["Dominik Weidenfeld <dominik@weidenfeld.info>"]
+edition = "2018"
+
+[dependencies]
